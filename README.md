@@ -20,10 +20,15 @@ variable to the second power, third power and fourth power. Assuming your loop
 variable is called i, you can do this either as i*i or Math.pow(i,2).
 
 n n^2 n^3 n^4
+
 1 1 1 1
+
 2 4 8 16
+
 3 9 27 81
+
 4 16 64 256
+
 5 25 125 625
 
 Q6. Write a do-while loop that will print out all the multiples of 3 from 3 to 36, that
